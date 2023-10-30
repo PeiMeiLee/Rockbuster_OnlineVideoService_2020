@@ -1,5 +1,5 @@
---Calculate total revenue per movie
---Merge columns from multiple data sets
+-- Calculate total revenue per movie
+-- Merge columns from multiple data sets
 
 SELECT 
 A.film_id,
@@ -12,9 +12,9 @@ LEFT JOIN payment D ON C.rental_id = D.rental_id
 GROUP BY A.film_id,B.title
 ORDER BY total_sales;
 
---Export result as CSV
---Import CSV to TABLEAU to create a bar chart showing the Top 10 movies per revenue
---Import CSV to TABLEAU to create a bar chart showing the Bottom 10 movies per revenue
+-- Export result as CSV
+-- Import CSV to Tableau to create a bar chart showing the Top 10 movies per revenue
+-- Import CSV to Tableau to create a bar chart showing the Bottom 10 movies per revenue
 
 --Calculate the average revenue
 WITH total_sales_cte AS
