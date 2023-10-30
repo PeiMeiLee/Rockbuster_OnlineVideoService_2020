@@ -2,15 +2,15 @@
 -- Calculate rental duration for each rental (in seconds)
 
 WITH rental_duration_cte AS
-(SELECT 
-rental_id,
-inventory_id,
-customer_id,
-rental_date,
-return_date,
-EXTRACT (EPOCH FROM(return_date - rental_date)) AS rental_duration
-FROM rental
- )
+ (SELECT 
+ rental_id,
+ inventory_id,
+ customer_id,
+ rental_date,
+ return_date,
+ EXTRACT (EPOCH FROM(return_date - rental_date)) AS rental_duration
+ FROM rental
+  )
 SELECT *
 FROM rental_duration_cte A
 LEFT JOIN inventory B ON A.inventory_id = B.inventory_id
