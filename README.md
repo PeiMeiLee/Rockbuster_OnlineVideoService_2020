@@ -1,5 +1,6 @@
 # Rockbuster_OnlineVideoService_2020
-This is a project work I completed for my Data Analytics Bootcamp at [CareerFoundry](https://careerfoundry.com) in 2023.
+
+I successfully finished this project as part of my studies in the Data Analytics Bootcamp at [CareerFoundry](https://careerfoundry.com) in 2023.
 ## Project Intro
 Rockbuster Stealth LLC is a movie rental company that used to have stores around the world. Facing stiff competition from streaming services such as Netflix and Amazon Prime, the Rockbuster Stealth management team is planning to use its existing movie licenses to launch an online video rental service in order to stay competitive.
 ## Key Questions and Objectives
