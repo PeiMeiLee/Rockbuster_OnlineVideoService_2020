@@ -10,4 +10,4 @@ The Rockbuster Stealth Management Board has asked a series of business questions
 * Which countries are Rockbuster customers based in?
 * Where are customers with a high lifetime value based?
 * Do sales figures vary between geographic regions?
-###### Note: Both the project introduction and key questions and objectives are excerpted from the project brief document supplied by the course.
+###### Note: Both the project introduction and key questions and objectives are excerpted from the project brief document provided by the course.
