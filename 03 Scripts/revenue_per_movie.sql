@@ -2,9 +2,9 @@
 -- Merge columns from multiple data sets
 
 SELECT 
-A.film_id,
-B.title,
-SUM(amount) AS total_sales
+  A.film_id,
+  B.title,
+  SUM(amount) AS total_sales
 FROM inventory A
 LEFT JOIN film B ON A.film_id = B.film_id
 LEFT JOIN rental C ON A.inventory_id = C.inventory_id
@@ -18,10 +18,10 @@ ORDER BY total_sales;
 
 --Calculate the average revenue
 WITH total_sales_cte AS
-(SELECT 
-A.film_id,
-B.title,
-SUM(amount) AS total_sales
+  (SELECT 
+  A.film_id,
+  B.title,
+  SUM(amount) AS total_sales
 FROM inventory A
 LEFT JOIN film B ON A.film_id = B.film_id
 LEFT JOIN rental C ON A.inventory_id = C.inventory_id
