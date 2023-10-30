@@ -2,8 +2,8 @@
 -- Merge columns from multiple data sets
 
 SELECT 
-D.country,
-SUM(E.amount) AS total_sales
+  D.country,
+  SUM(E.amount) AS total_sales
 FROM customer A
 INNER JOIN address B ON A.address_id = B.address_id
 INNER JOIN city C ON B.city_id = C.city_id
