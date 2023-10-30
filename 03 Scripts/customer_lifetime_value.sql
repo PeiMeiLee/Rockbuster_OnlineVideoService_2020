@@ -2,11 +2,11 @@
 -- Merge columns from multiple data sets to gain geographical insights
 
 SELECT A.customer_id, 
-A.first_name,
-A.last_name,
-D.country,
-C.city,
-SUM(E.amount) AS total_amount_paid
+	A.first_name,
+	A.last_name,
+  D.country,
+  C.city,
+  SUM(E.amount) AS total_amount_paid
 FROM customer A
 INNER JOIN address B ON A.address_id = B.address_id
 INNER JOIN city C ON B.city_id = C.city_id
