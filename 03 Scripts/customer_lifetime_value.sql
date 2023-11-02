@@ -16,5 +16,4 @@ GROUP BY A.customer_id, D.country, C.city
 ORDER BY total_amount_paid DESC;
 
 -- Export result as CSV
--- Find customer lifetime value range in Excel
 -- Import CSV to Tableau to create a treemap showing top customers with the highest lifetime value
