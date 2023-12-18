@@ -39,9 +39,10 @@ The Rockbuster Stealth Management Board has asked a series of business questions
 - Creating a data dictionary
 - Creating repositories on GitHub
 
-## Projeect Deliverables
+## Project Deliverables
 - [A data dictionary](https://github.com/PeiMeiLee/Rockbuster_OnlineVideoService_2020/blob/main/05%20Sent%20to%20Client/E3.10_Data_Dictionary_Lee.pdf)
 - [A slide deck](https://github.com/PeiMeiLee/Rockbuster_OnlineVideoService_2020/blob/main/05%20Sent%20to%20Client/E3.10_Presentation_Lee.pdf)
 
-###### This project is part of my studies fo the Data Analytics Program at [CareerFoundry Boot Camp](https://careerfoundry.com) in 2023.
-###### Both the project introduction and key questions and objectives are excerpted from the project brief document provided by the course.
+## Notes
+- This project is part of my studies fo the Data Analytics Program at [CareerFoundry Boot Camp](https://careerfoundry.com) in 2023.
+- Both the project introduction and key questions and objectives are excerpted from the project brief document provided by the course.
