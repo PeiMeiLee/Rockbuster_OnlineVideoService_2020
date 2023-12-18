@@ -9,7 +9,7 @@
 - Use SQL to analyze the data and answer various business questions 
 - Compile analysis findings into an easily digestible format for executives
 
-## Key Questions and Objectives
+## Key Questions
 The Rockbuster Stealth Management Board has asked a series of business questions and they expect data-driven answers that they can use for their 2020 company strategy. Here are the main questions they’d like to answer:
 
 - Which movies contributed the most/least to revenue gain?
@@ -45,4 +45,4 @@ The Rockbuster Stealth Management Board has asked a series of business questions
 
 ## Notes
 - This project is part of my studies fo the Data Analytics Program at [CareerFoundry Boot Camp](https://careerfoundry.com) in 2023.
-- Both the project introduction and key questions and objectives are excerpted from the project brief document provided by the course.
+- Both the project introduction and key questions are excerpted from the project brief document provided by the course.
