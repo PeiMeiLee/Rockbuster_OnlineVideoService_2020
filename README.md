@@ -1,6 +1,7 @@
 # Rockbuster_OnlineVideoService_2020
 
 ![title](https://github.com/PeiMeiLee/Rockbuster_OnlineVideoService_2020/blob/main/01%20Project%20Management/glenn-carstens-peters-EOQhsfFBhRk-unsplash.jpg)
+Photo by [Glenn Carstens-Peters](https://unsplash.com/@glenncarstenspeters?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on Unsplash
 ## Project Intro
 - Rockbuster Stealth LLC is a movie rental company that used to have stores worldwide. 
 - Confronted by intense competition from streaming services, the management plans to use current movie licenses to introduce an online movie rental service to remain competitive.
