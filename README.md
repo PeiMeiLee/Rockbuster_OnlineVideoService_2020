@@ -7,8 +7,8 @@ Photo by [Glenn Carstens-Peters](https://unsplash.com/@glenncarstenspeters?utm_c
 - Confronted by intense competition from streaming services, the management plans to use current movie licenses to introduce an online movie rental service to remain competitive.
 
 ## My Tasks
-- Use SQL to analyze the data and answer various business questions 
-- Compile analysis findings into an easily digestible format for executives
+- Use SQL queries to analyze sales data and customer data to answer business questions regarding revenue, customer behavior, demographics and lifetime value.
+- Visualize analysis findings and produce an executive report with actionable recommendations.
 
 ## Key Questions
 The Rockbuster Stealth Management Board has asked a series of business questions and they expect data-driven answers that they can use for their 2020 company strategy. Here are the main questions they’d like to answer:
